@@ -1,4 +1,5 @@
 {
+  "homepage": "http://spiridon209.github.io/Rocket-Test-Task",
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
@@ -19,7 +20,9 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "lint": "eslint --ext .jsx,.js src/",
-    "lint:fix": "eslint --fix --ext .jsx,.js src/"
+    "lint:fix": "eslint --fix --ext .jsx,.js src/",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -45,6 +48,7 @@
     "eslint-plugin-jsx-a11y": "^6.3.0",
     "eslint-plugin-react": "^7.20.0",
     "eslint-plugin-react-hooks": "^4.0.0",
+    "gh-pages": "^3.1.0",
     "prettier": "2.0.5"
   }
 }
