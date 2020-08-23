@@ -22,6 +22,6 @@ You will also see any lint errors in the console.
 
 Плюсом (но не обязательным требованием) будет использование TypeScript.
 
-API:
+API:<br />
 [https://jsonplaceholder.typicode.com/posts](https://jsonplaceholder.typicode.com/posts) — посты<br />
 [https://jsonplaceholder.typicode.com/users](https://jsonplaceholder.typicode.com/users) — пользователи
