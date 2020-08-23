@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Rocket-Test-Task/static/css/main.636d4c31.chunk.css",
+    "main.js": "/Rocket-Test-Task/static/js/main.5135dab6.chunk.js",
+    "main.js.map": "/Rocket-Test-Task/static/js/main.5135dab6.chunk.js.map",
+    "runtime-main.js": "/Rocket-Test-Task/static/js/runtime-main.11e0eac4.js",
+    "runtime-main.js.map": "/Rocket-Test-Task/static/js/runtime-main.11e0eac4.js.map",
+    "static/js/2.24823e24.chunk.js": "/Rocket-Test-Task/static/js/2.24823e24.chunk.js",
+    "static/js/2.24823e24.chunk.js.map": "/Rocket-Test-Task/static/js/2.24823e24.chunk.js.map",
+    "index.html": "/Rocket-Test-Task/index.html",
+    "precache-manifest.d696ae3eb3eef8775591c9246b58cae9.js": "/Rocket-Test-Task/precache-manifest.d696ae3eb3eef8775591c9246b58cae9.js",
+    "service-worker.js": "/Rocket-Test-Task/service-worker.js",
+    "static/css/main.636d4c31.chunk.css.map": "/Rocket-Test-Task/static/css/main.636d4c31.chunk.css.map",
+    "static/js/2.24823e24.chunk.js.LICENSE.txt": "/Rocket-Test-Task/static/js/2.24823e24.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11e0eac4.js",
+    "static/js/2.24823e24.chunk.js",
+    "static/css/main.636d4c31.chunk.css",
+    "static/js/main.5135dab6.chunk.js"
+  ]
+}
